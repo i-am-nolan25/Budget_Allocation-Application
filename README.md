@@ -6,7 +6,9 @@ This repository contains a Budget Allocation Application created as part of IBM'
 
 ### Course Information
 Title: Developing Front-End Apps with React
+
 Type: Final Project
+
 Course Provider: IBM
 
 ### Tasks
