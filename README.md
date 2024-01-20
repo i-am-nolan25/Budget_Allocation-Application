@@ -1,6 +1,6 @@
 # React Budget Allocation Application
 
-![practicefinal](https://github.com/i-am-nolan25/Budget_Allocation-Application/assets/113712250/c7415d76-2600-4679-882f-0f149880409a)
+![Budget Allocation](https://github.com/i-am-nolan25/Budget_Allocation-Application/assets/113712250/790a7e89-9aea-43a5-b6da-a5b25b6c5184)
 
 This repository contains a Budget Allocation Application created as part of IBM's Developing Front-End Apps with React course.
 
